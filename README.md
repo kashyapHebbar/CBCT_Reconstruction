@@ -37,8 +37,8 @@ Traditional imaging techniques in Image-Guided Radiation Therapy (IGRT) often su
 ## Installation
 Clone the repository and install the necessary packages:
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/kashyapHebbar/CBCT_Reconstruction.git
+cd CBCT_Reconstruction
 pip install -r requirements.txt
 ```
 
